@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCodiceFiscale", "MyCodiceFiscale.csproj", "{E6CE7545-1E7F-4434-AADC-DC34C220AF61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFcalculator", "..\CFcalculator\CFcalculator.csproj", "{2D0E557A-1A00-4A10-8E94-38873FEDF42C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCodiceFiscale", "TestCodiceFiscale\TestCodiceFiscale.csproj", "{238F969D-8978-45BE-8B30-59B2009FDB47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F72F9A41-EA48-4F82-8FCC-EBCF58877D81}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		MyCodiceFiscale.vsmdi = MyCodiceFiscale.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MyCodiceFiscale.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Debug|x86.ActiveCfg = Debug|x86
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Debug|x86.Build.0 = Debug|x86
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Release|Any CPU.ActiveCfg = Release|x86
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Release|x86.ActiveCfg = Release|x86
+		{E6CE7545-1E7F-4434-AADC-DC34C220AF61}.Release|x86.Build.0 = Release|x86
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2D0E557A-1A00-4A10-8E94-38873FEDF42C}.Release|x86.ActiveCfg = Release|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{238F969D-8978-45BE-8B30-59B2009FDB47}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

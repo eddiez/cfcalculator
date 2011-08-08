@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="372331aa-4f89-4f73-a6bd-dafb2977e7d5" name="edo@PC-EDOFISSO 2011-06-04 17:54:49" runUser="PC-edoFisso\edo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="de5e3805-0cc0-422f-a5a6-65fabe060865">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="edo_PC-EDOFISSO 2011-06-04 17_54_49">
+      <DeploymentItem filename="D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\CFcalculator\bin\Debug\CFcalculator.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-06-04T17:54:49.7307244+02:00" queuing="2011-06-04T17:54:57.8711900+02:00" start="2011-06-04T17:54:58.5522290+02:00" finish="2011-06-04T17:55:04.8815910+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="estraiComuneTest" storage="d:\siti, sw mio\soggiorni\codice fiscale\mycodicefiscale\mycodicefiscale\testcodicefiscale\bin\debug\testcodicefiscale.dll" id="55640169-da4d-fb84-defc-8cce6bc93bc7">
+      <Execution id="1fa5c109-6b12-4cdb-9ec3-3507d5a0330a" />
+      <TestMethod codeBase="D:/Siti, sw mio/Soggiorni/codice fiscale/MyCodiceFiscale/MyCodiceFiscale/TestCodiceFiscale/bin/Debug/TestCodiceFiscale.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCodiceFiscale.TestCFCalculator, TestCodiceFiscale, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="estraiComuneTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="55640169-da4d-fb84-defc-8cce6bc93bc7" executionId="1fa5c109-6b12-4cdb-9ec3-3507d5a0330a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1fa5c109-6b12-4cdb-9ec3-3507d5a0330a" testId="55640169-da4d-fb84-defc-8cce6bc93bc7" testName="estraiComuneTest" computerName="PC-EDOFISSO" duration="00:00:03.0775132" startTime="2011-06-04T17:54:59.0842594+02:00" endTime="2011-06-04T17:55:04.5345712+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1fa5c109-6b12-4cdb-9ec3-3507d5a0330a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,7 @@
+D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\CFcalculator\bin\Debug\ComuniCFdb.accdb
+D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\CFcalculator\bin\Debug\CFcalculator.dll.config
+D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\CFcalculator\bin\Debug\CFcalculator.dll
+D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\CFcalculator\bin\Debug\CFcalculator.pdb
+D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\CFcalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\CFcalculator\obj\Debug\CFcalculator.dll
+D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\CFcalculator\obj\Debug\CFcalculator.pdb

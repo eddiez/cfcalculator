@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ea84cf7c-af42-4936-8888-3fe9a6b82c37" name="edo@PC-EDOFISSO 2011-06-04 09:54:39" runUser="PC-edoFisso\edo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="de5e3805-0cc0-422f-a5a6-65fabe060865">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="edo_PC-EDOFISSO 2011-06-04 09_54_39">
+      <DeploymentItem filename="D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\CFcalculator\bin\Debug\CFcalculator.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-06-04T09:54:39.7678888+02:00" queuing="2011-06-04T09:54:41.0239606+02:00" start="2011-06-04T09:54:41.0419617+02:00" finish="2011-06-04T09:54:42.0340184+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="6" executed="6" passed="5" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="estraiCognomeTest" storage="d:\siti, sw mio\soggiorni\codice fiscale\mycodicefiscale\mycodicefiscale\testcodicefiscale\bin\debug\testcodicefiscale.dll" id="2e092de9-94b5-7faf-d4b6-f242d41152af">
+      <Execution id="2cb0201b-4ff7-4ac8-96a9-0bd4bf754e86" />
+      <TestMethod codeBase="D:/Siti, sw mio/Soggiorni/codice fiscale/MyCodiceFiscale/MyCodiceFiscale/TestCodiceFiscale/bin/Debug/TestCodiceFiscale.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCodiceFiscale.TestCFCalculator, TestCodiceFiscale, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="estraiCognomeTest" />
+    </UnitTest>
+    <UnitTest name="estraiNomeTest" storage="d:\siti, sw mio\soggiorni\codice fiscale\mycodicefiscale\mycodicefiscale\testcodicefiscale\bin\debug\testcodicefiscale.dll" id="75466c70-424e-1fa9-53af-f5a46aebbdc9">
+      <Execution id="1e447f73-2aaa-42e9-8767-d4674df1eeef" />
+      <TestMethod codeBase="D:/Siti, sw mio/Soggiorni/codice fiscale/MyCodiceFiscale/MyCodiceFiscale/TestCodiceFiscale/bin/Debug/TestCodiceFiscale.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCodiceFiscale.TestCFCalculator, TestCodiceFiscale, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="estraiNomeTest" />
+    </UnitTest>
+    <UnitTest name="estraiMeseTest" storage="d:\siti, sw mio\soggiorni\codice fiscale\mycodicefiscale\mycodicefiscale\testcodicefiscale\bin\debug\testcodicefiscale.dll" id="fb9b5ef0-ee90-b294-a2d3-50aa695dffc0">
+      <Execution id="640c7c27-f21f-4bfd-804b-1afc5f662651" />
+      <TestMethod codeBase="D:/Siti, sw mio/Soggiorni/codice fiscale/MyCodiceFiscale/MyCodiceFiscale/TestCodiceFiscale/bin/Debug/TestCodiceFiscale.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCodiceFiscale.TestCFCalculator, TestCodiceFiscale, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="estraiMeseTest" />
+    </UnitTest>
+    <UnitTest name="getCodiceFiscaleTest" storage="d:\siti, sw mio\soggiorni\codice fiscale\mycodicefiscale\mycodicefiscale\testcodicefiscale\bin\debug\testcodicefiscale.dll" id="ecf8fecb-b75d-22ea-1a6c-b7ce73f76f8f">
+      <Execution id="1dec9f0b-75f3-42f9-afc6-0904041b0b18" />
+      <TestMethod codeBase="D:/Siti, sw mio/Soggiorni/codice fiscale/MyCodiceFiscale/MyCodiceFiscale/TestCodiceFiscale/bin/Debug/TestCodiceFiscale.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCodiceFiscale.TestCFCalculator, TestCodiceFiscale, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getCodiceFiscaleTest" />
+    </UnitTest>
+    <UnitTest name="estraiAnnoTest" storage="d:\siti, sw mio\soggiorni\codice fiscale\mycodicefiscale\mycodicefiscale\testcodicefiscale\bin\debug\testcodicefiscale.dll" id="92482e6c-3a8f-bcda-9a2d-133e93714e38">
+      <Execution id="cba4d27f-47b5-42df-bf56-f484ae4bb717" />
+      <TestMethod codeBase="D:/Siti, sw mio/Soggiorni/codice fiscale/MyCodiceFiscale/MyCodiceFiscale/TestCodiceFiscale/bin/Debug/TestCodiceFiscale.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCodiceFiscale.TestCFCalculator, TestCodiceFiscale, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="estraiAnnoTest" />
+    </UnitTest>
+    <UnitTest name="estraiGiornoTest" storage="d:\siti, sw mio\soggiorni\codice fiscale\mycodicefiscale\mycodicefiscale\testcodicefiscale\bin\debug\testcodicefiscale.dll" id="fab3d956-958d-2814-bab7-11a10a558310">
+      <Execution id="bc69cea1-2f66-4f9f-8159-1d45dbfcf937" />
+      <TestMethod codeBase="D:/Siti, sw mio/Soggiorni/codice fiscale/MyCodiceFiscale/MyCodiceFiscale/TestCodiceFiscale/bin/Debug/TestCodiceFiscale.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestCodiceFiscale.TestCFCalculator, TestCodiceFiscale, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="estraiGiornoTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2e092de9-94b5-7faf-d4b6-f242d41152af" executionId="2cb0201b-4ff7-4ac8-96a9-0bd4bf754e86" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="75466c70-424e-1fa9-53af-f5a46aebbdc9" executionId="1e447f73-2aaa-42e9-8767-d4674df1eeef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92482e6c-3a8f-bcda-9a2d-133e93714e38" executionId="cba4d27f-47b5-42df-bf56-f484ae4bb717" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ecf8fecb-b75d-22ea-1a6c-b7ce73f76f8f" executionId="1dec9f0b-75f3-42f9-afc6-0904041b0b18" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fab3d956-958d-2814-bab7-11a10a558310" executionId="bc69cea1-2f66-4f9f-8159-1d45dbfcf937" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb9b5ef0-ee90-b294-a2d3-50aa695dffc0" executionId="640c7c27-f21f-4bfd-804b-1afc5f662651" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2cb0201b-4ff7-4ac8-96a9-0bd4bf754e86" testId="2e092de9-94b5-7faf-d4b6-f242d41152af" testName="estraiCognomeTest" computerName="PC-EDOFISSO" duration="00:00:00.0248608" startTime="2011-06-04T09:54:41.0449618+02:00" endTime="2011-06-04T09:54:41.3889815+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2cb0201b-4ff7-4ac8-96a9-0bd4bf754e86">
+    </UnitTestResult>
+    <UnitTestResult executionId="1e447f73-2aaa-42e9-8767-d4674df1eeef" testId="75466c70-424e-1fa9-53af-f5a46aebbdc9" testName="estraiNomeTest" computerName="PC-EDOFISSO" duration="00:00:00.0437682" startTime="2011-06-04T09:54:41.4279838+02:00" endTime="2011-06-04T09:54:41.4879872+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e447f73-2aaa-42e9-8767-d4674df1eeef">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Drd&gt;. Actual:&lt;drd&gt;. </Message>
+          <StackTrace>   at TestCodiceFiscale.TestCFCalculator.estraiNomeTest() in D:\Siti, sw mio\Soggiorni\codice fiscale\MyCodiceFiscale\MyCodiceFiscale\TestCodiceFiscale\TestCFCalculator.cs:line 164
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="cba4d27f-47b5-42df-bf56-f484ae4bb717" testId="92482e6c-3a8f-bcda-9a2d-133e93714e38" testName="estraiAnnoTest" computerName="PC-EDOFISSO" duration="00:00:00.0043909" startTime="2011-06-04T09:54:41.4899873+02:00" endTime="2011-06-04T09:54:41.5139887+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cba4d27f-47b5-42df-bf56-f484ae4bb717">
+    </UnitTestResult>
+    <UnitTestResult executionId="1dec9f0b-75f3-42f9-afc6-0904041b0b18" testId="ecf8fecb-b75d-22ea-1a6c-b7ce73f76f8f" testName="getCodiceFiscaleTest" computerName="PC-EDOFISSO" duration="00:00:00.3601674" startTime="2011-06-04T09:54:41.5309896+02:00" endTime="2011-06-04T09:54:41.9050110+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1dec9f0b-75f3-42f9-afc6-0904041b0b18">
+    </UnitTestResult>
+    <UnitTestResult executionId="bc69cea1-2f66-4f9f-8159-1d45dbfcf937" testId="fab3d956-958d-2814-bab7-11a10a558310" testName="estraiGiornoTest" computerName="PC-EDOFISSO" duration="00:00:00.0003340" startTime="2011-06-04T09:54:41.9160117+02:00" endTime="2011-06-04T09:54:41.9200119+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc69cea1-2f66-4f9f-8159-1d45dbfcf937">
+    </UnitTestResult>
+    <UnitTestResult executionId="640c7c27-f21f-4bfd-804b-1afc5f662651" testId="fb9b5ef0-ee90-b294-a2d3-50aa695dffc0" testName="estraiMeseTest" computerName="PC-EDOFISSO" duration="00:00:00.0002683" startTime="2011-06-04T09:54:41.9260122+02:00" endTime="2011-06-04T09:54:41.9300125+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="640c7c27-f21f-4bfd-804b-1afc5f662651">
+    </UnitTestResult>
+  </Results>
+</TestRun>
